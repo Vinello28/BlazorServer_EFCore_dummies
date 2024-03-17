@@ -1,0 +1,87 @@
+﻿@page "/fetchprovince"
+@using BlazorAppUI.Data
+@using DataAccessLayer.Models
+@using DataAccessLayer.Services
+@inject ProvinceService provinceService
+
+<PageTitle>Weather forecast</PageTitle>
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+@if (province == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <EditForm Model="p" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div class="form-group">
+            <label for="Sigla">Sigla</label>
+            <InputText id="Sigla" class="form-control" @bind-Value="p.Sigla" />
+            <label for="Nome">Nome</label>
+            <InputText id="Nome" class="form-control" @bind-Value="p.Nome" />
+           <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+    </EditForm>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Sigla</th>
+                <th>Nome</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in province)
+            {
+                <tr>
+                    <td>@item.Sigla</td>
+                    <td>@item.Nome</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Province> province;
+    private Province p = new Province();
+
+    protected async override Task OnInitializedAsync()
+    {
+        await RefreshData();
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        await provinceService.AddProvinceAsync(p);
+        await RefreshData();
+        p = new Province();
+    }
+
+    private async Task RefreshData()
+    {
+        province = await provinceService.GetProvincesAsync();
+    }
+
+    /* protected override void OnInitialized()
+        {
+    RefreshData();
+     }
+
+     *     private void HandleValidSubmit()
+        {
+        provinceService.AddProvince(p);
+        RefreshData();
+        p = new Province();
+    }
+
+    private void RefreshData()
+        {
+        province = provinceService.GetProvinces();
+    }*/
+}

@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5F1754-4A3C-46C2-ADB0-267CE04D1171}|BlazorAppUI\\BlazorAppUI.csproj|c:\\users\\utente\\desktop\\github repos\\blazorserver_efcore_dummies\\aziendax\\blazorappui\\pages\\fetchprovince.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C5F1754-4A3C-46C2-ADB0-267CE04D1171}|BlazorAppUI\\BlazorAppUI.csproj|solutionrelative:blazorappui\\pages\\fetchprovince.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C4AE56-6DD6-45A3-9754-DBF747878D05}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\utente\\desktop\\github repos\\blazorserver_efcore_dummies\\aziendax\\dataaccesslayer\\services\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C4AE56-6DD6-45A3-9754-DBF747878D05}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\services\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5F1754-4A3C-46C2-ADB0-267CE04D1171}|BlazorAppUI\\BlazorAppUI.csproj|c:\\users\\utente\\desktop\\github repos\\blazorserver_efcore_dummies\\aziendax\\blazorappui\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C5F1754-4A3C-46C2-ADB0-267CE04D1171}|BlazorAppUI\\BlazorAppUI.csproj|solutionrelative:blazorappui\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5F1754-4A3C-46C2-ADB0-267CE04D1171}|BlazorAppUI\\BlazorAppUI.csproj|c:\\users\\utente\\desktop\\github repos\\blazorserver_efcore_dummies\\aziendax\\blazorappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5F1754-4A3C-46C2-ADB0-267CE04D1171}|BlazorAppUI\\BlazorAppUI.csproj|solutionrelative:blazorappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\BlazorAppUI\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorAppUI\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\BlazorAppUI\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorAppUI\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:04:51.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FetchProvince.razor",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\BlazorAppUI\\Pages\\FetchProvince.razor",
+              "RelativeDocumentMoniker": "BlazorAppUI\\Pages\\FetchProvince.razor",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\BlazorAppUI\\Pages\\FetchProvince.razor*",
+              "RelativeToolTip": "BlazorAppUI\\Pages\\FetchProvince.razor*",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:04:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProvinceService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\DataAccessLayer\\Services\\ProvinceService.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Services\\ProvinceService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\DataAccessLayer\\Services\\ProvinceService.cs",
+              "RelativeToolTip": "DataAccessLayer\\Services\\ProvinceService.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAswHYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:01:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\BlazorAppUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAppUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\GitHub Repos\\BlazorServer_EFCore_dummies\\AziendaX\\BlazorAppUI\\Program.cs",
+              "RelativeToolTip": "BlazorAppUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:54:40.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.sourcelink.json
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\GitHub Repos\BlazorServer_EFCore_dummies\AziendaX\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
